@@ -21,6 +21,8 @@ JS - Only main files are included here:
 
 HTML - `Index.html` is where all the magic happens and all the data is binded.
 
+img - This file included images of foursquares powered images.
+
 ## Features
 You get a full screen Google Map, populated with my Santa Rosa Californi's Public Transportation Stops locations, along with a sidebar with a list of the locations that can be clicked on and see the information about the location.
 
